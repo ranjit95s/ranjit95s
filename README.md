@@ -83,13 +83,14 @@
 
 <br>
 
-### 👉 Let's Connect..! <img src="https://github.com/ranjit95s/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+### 👉 Let's Connect..! 
+<img src="https://github.com/ranjit95s/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div style ="display:flex;" align="center">
+<!-- <div style ="display:flex;" align="center">
   <img src="https://drive.google.com/uc?id=1qzjjmpa6oY9a3xq3mCqWoufaMO5LgDMs" style="height:200px"/>
  
-</div>
-<br>
+</div> -->
+<!-- <br> -->
 <div align='left'>
 
 <a  align="center" href="https://linkedin.com/in/ranjit95s" target="_blank">
