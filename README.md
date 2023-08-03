@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Ranjit Suryawanshi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div style="width:100%; display:flex; align-items:center; justify-content:center;"><h1 align="center">Hi , I'm Ranjit Suryawanshi <img src="https://github.com/ranjit95s/Twitter-r95s/assets/74762032/a7cd2180-ba4f-454d-8868-8cfb1150ff15" width="55"></h1> </div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programmer..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Still+Newbie+|+I+Keep+Learning+New+Stuff,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
